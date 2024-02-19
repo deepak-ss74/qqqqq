@@ -1,4 +1,3 @@
-<![CDATA[
 /*
 <Group description="Theme Color">
 <Variable name="themeColor" description="Light Mode Address bar color" type="color" default="#2e51a2" value="#482dff"/>
@@ -153,4 +152,3 @@
 /* Theme 9 - Purple */ :root .theme9:not(.drK){/* Theme */ --themeC: #7B1FA2; /* Body */ --bodyB: #FBFEFF; /* Link */ --linkC: #8E24AA; --linkB: #8E24AA; /* Header */ --headerB: #F3E5F5; /* Notif */ --notifU: #F3E5F5; --notifC: #7B1FA2; /* Search */ --srchB: #F3E5F5; /* MobMn */ --mobB: #F3E5F5; /* Wave */ --waveB: #F3E5F5;}
 
 /* Theme 10 - Indigo */ :root .theme10:not(.drK){/* Theme */ --themeC: #283593; /* Body */ --bodyB: #FBFEFF; /* Link */ --linkC: #3949AB; --linkB: #3949AB; /* Header */ --headerB: #E8EAF6; /* Notif */ --notifU: #E8EAF6; --notifC: #283593; /* Search */ --srchB: #E8EAF6; /* MobMn */ --mobB: #E8EAF6; /* Wave */ --waveB: #E8EAF6;}
-]]>
